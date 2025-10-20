@@ -19,3 +19,7 @@ arduino-temp/
 *.swp
 *.swo
 *~
+
+server.js
+package.json
+index.html
