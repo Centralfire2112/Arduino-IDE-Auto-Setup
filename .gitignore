@@ -1,0 +1,21 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Arduino IDE installation (if testing locally)
+arduino-ide/
+arduino-temp/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
