@@ -27,7 +27,7 @@ A simple, automated batch script for installing Arduino IDE on Windows systems. 
 
 ### Method 1: Download and Run
 
-1. Download `setup_arduino.bat` from the [releases page](https://github.com/yourusername/arduino-ide-setup/releases)
+1. Download `setup_arduino.bat` from the [releases page]([https://github.com/yourusername/arduino-ide-setup/releases](https://github.com/Centralfire2112/Arduino-IDE-Auto-Setup/releases/tag/Arduino-IDE-Auto-Setup))
 2. Double-click the file to run it
 3. Wait for the installation to complete
 4. Find the Arduino IDE shortcut on your desktop
