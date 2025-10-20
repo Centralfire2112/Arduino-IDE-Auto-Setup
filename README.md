@@ -136,10 +136,6 @@ set "DOWNLOAD_URL=https://downloads.arduino.cc/arduino-ide/arduino-ide_X.X.X_Win
 ```
 arduino-ide-setup/
 ├── setup_arduino.bat    # Main installation script
-├── index.html          # Download website
-├── server.js           # Node.js web server (port 6565)
-├── package.json        # Node.js package configuration
-├── START_SERVER.bat    # Quick start server script
 ├── README.md           # This file
 ├── LICENSE             # MIT License
 └── .gitignore          # Git ignore rules
